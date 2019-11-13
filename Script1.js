@@ -1,4 +1,4 @@
-var interval = 05;
+var interval =5;
 var bouncy = document.getElementById("bouncyball");
 var width = window.innerWidth;
 var height = window.innerHeight;
